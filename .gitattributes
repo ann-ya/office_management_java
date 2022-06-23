@@ -3,4 +3,6 @@
 #
 # These are explicitly windows files and should use crlf
 *.bat           text eol=crlf
-
+*.mqh             text
+*                 encoding=UTF-8
+/mql4/            encoding=CP1252
