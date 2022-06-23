@@ -6,3 +6,4 @@
 *.mqh             text
 *                 encoding=UTF-8
 /mql4/            encoding=CP1252
+*.java    text
